@@ -4,8 +4,8 @@
 }
 
 #octocat {
-  display: block;
-  width:300px;
+  display: inline;
+  width:350px;
   margin: 50px auto;
 }
 
