@@ -4,14 +4,14 @@
 }
 
 #octocat {
-  display: block;
-  width:384px;
+  display: inline;
+  width:350px;
   margin: 50px auto;
 }
 
 p {
   display: inline-block;
-  width: 400px;
-  margin: 50px auto;
+  width: 500px;
+  margin: 100px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
